@@ -1,0 +1,88 @@
+id;titulo;autor;numero_paginas;data_leitura;nacionalidade_autor;idioma_obra_original;idioma_da_obra_lido
+1;The little Prince;Antoine de Saint-Exupéry;96;2016;França;Francês;Português
+2;How to win friends and influence people;Dale Carnegie;288;2016;EUA;Inglês;Inglês
+3;O alquimista;Paulo Coelho;197;2016;Brasil;Português;Português
+4;Crush it!;Gary Vaynerchuk;142;2016;Bielo-Rússia;Inglês;Inglês
+5;The thank you Economy;Gary Vaynerchuk;256;2016;Bielo-Rússia;Inglês;Inglês
+6;Jab Jab Jab Right Hook;Gary Vaynerchuk;224;2016;Bielo-Rússia;Inglês;Inglês
+7;#AskGaryVee;Gary Vaynerchuk;384;2016;Bielo-Rússia;Inglês;Inglês
+8;Manhood;Terry Crews;304;2016;EUA;Inglês;Inglês
+9;Creativity,Inc.;Ed Catmull;368;2016;EUA;Inglês;Inglês
+10;Managing Oneself;Peter F.Drucker;72;2016;Áustria;Inglês;Inglês
+11;How to Talk to Anyone;Leil Lowndes;365;2016;EUA;Inglês;Inglês
+12;The Charisma Myth;Olivia Fox Cabane;272;2016;EUA;Inglês;Inglês
+13;Outliers: The Story of Success;Malcolm Gladwell;336;2016;Inglaterra;Inglês;Inglês
+14;The Subtle Art of Not Giving A F*ck;Mark Manson;229;2016;EUA;Inglês;Inglês
+15;The Lean Startup;Eric Ries;336;2016;EUA;Inglês;Inglês
+16;Zero to One;Peter Thiel;170;2016;Alemanha;Inglês;Inglês
+17;The Power of Habit;Charles Duhigg;371;2016;EUA;Inglês;Inglês
+18;Man’s Search for Meaning;Viktor E. Frankl;184;2016;Áustria;Alemão;Inglês
+19;Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling;John Taylor Gatto;144;2016;EUA;Inglês;Inglês
+20;Awaken the Giant Within;Tony Robbins;378;2016;EUA;Inglês;Inglês
+21;You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life;Jen Sincero;256;2016;EUA;Inglês;Inglês
+22;The Girl on the Train;Paula Hawkins;272;2017;Zimbábue;Inglês;Inglês
+23;The Four Agreements: A Practical Guide to Personal Freedom;Don Miguel Ruiz;89;2017;México;Inglês;Inglês
+24;Introvert Power: Why Your Inner Life Is Your Hidden Strength;Laurie Helgoe;283;2017;EUA;Inglês;Inglês
+25;Choose Yourself;James Altucher;193;2017;EUA;Inglês;Inglês
+26;One Small Step Can Change Your Life: The Kaizen Way;Robert Maurer;182;2017;EUA;Inglês;Inglês
+27;The One Thing;Gary Keller;161;2017;EUA;Inglês;Inglês
+28;The Little Book of Talent;Daniel Coyle;160;2017;EUA;Inglês;Inglês
+29;The Way of the Superior Man;David Deida;224;2017;EUA;Inglês;Inglês
+30;Smarter Faster Better;Charles Duhigg;279;2017;EUA;Inglês;Inglês
+31;Drop out and get schooled;Patrick Bet-David;95;2017;Irã;Inglês;Inglês
+32;Choose Yourself Guide to Wealth;James Altucher;270;2017;EUA;Inglês;Inglês
+33;The Airbnb Story;Leigh Gallagher;210;2017;EUA;Inglês;Inglês
+34;Your One Word;Evan Carmichael;172;2017;Canadá;Inglês;Inglês
+35;Give and Take;Adam Grant;300;2017;EUA;Inglês;Inglês
+36;Be Obsessed Or Be Average;Grant Cardone;240;2017;EUA;Inglês;Inglês
+37;The Hitchhiker's Guide to the Galaxy;Douglas Adams;160;2018;Inglaterra;Inglês;Inglês
+38;Guia Politicamente Incorreto da História do Mundo;Leandro Narloch;212;2018;Brasil;Português;Português
+39;Dangerous;Milo Yiannopoulos;288;2018;Inglaterra;Inglês;Inglês
+40;Quiet Power – The Secret Strength of Introvert;Susan Cain;170;2018;EUA;Inglês;Inglês
+41;The Millionaire Booklet – How to Get Super Rich;Grant Cardone;46;2018;EUA;Inglês;Inglês
+42;Reinvent Yourself;James Altucher;268;2018;EUA;Inglês;Inglês
+43;Making It Happen;Fil Biggs;180;2018;Inglaterra;Inglês;Inglês
+44;As a Man Thinketh;James Allen;26;2018;Inglaterra;Inglês;Inglês
+45;The Art of Work;Jeff Goins;170;2018;EUA;Inglês;Inglês
+46;The Noble Art of Seducing Women;Kezia Noble;257;2018;Inglaterra;Inglês;Inglês
+47;Manifesto of the Communist Party;Karl Marx & Friedrich Engels;36;2018;Alemanha;Alemão;Inglês
+48;O Mínimo Que Você Precisa Saber Para Não Ser Um Idiota;Olavo De Carvalho;621;2018;Brasil;Português;Português
+49;Tao te ching;lao tzu;35;2018;China;Chinês Clássico;Inglês
+50;O Feijão e o Sonho;Orígenes Lessa;146;2018;Brasil;Português;Português
+51;Recordações do Escrivão Isaías Caminha;Lima Barreto;122;2018;Brasil;Português;Português
+52;Marxism Unmasked: From Delusion to Destruction;Ludwig Von Mises;126;2018;Ucrânia;Inglês;Inglês
+53;Liberty & Property;Ludwig Von Mises;28;2018;Ucrânia;Inglês;Inglês
+54;Confissões;Agostinho;306;2018;Argélia;Latim;Português
+55;Don’t Make me Think;Steve Krug;148;2018;EUA;Inglês;Inglês
+56;Animal Farm;George Orwell;112;2018;Índia;Inglês;Inglês
+57;Your Brain on Porn;Gary Wilson;201;2019;EUA;Inglês;Inglês
+58;Aprendendo Inteligência;Pierluigi Piazzi;130;2019;Itália;Português;Português
+59;Metodologia de Pesquisa Para Ciência da Computação;Raul Sidnei Wazlawick;120;2019;Brasil;Português;Português
+60;Ten Arguments for Deleting your Social Media Accounts Right Now;Jaron Lanier;145;2019;EUA;Inglês;Inglês
+61;Mentiram e muito para mim;Flavio Quintela;111;2019;Brasil;Português;Português
+62;Mentiram para mim sobre o desarmamento;Flavio Quintela e Bene Barbosa;112;2019;Brasil;Português;Português
+63;The old man and the sea;Ernest Hemingway;52;2019;EUA;Inglês;Inglês
+64;Como Mentir com Estatística;Darrell Huff;130;2019;EUA;Inglês;Português
+65;A Grief Observed;C.S. Lewis;107;2019;Inglaterra;Inglês;Inglês
+66;God and Stephen Hawking: Whose Design is it Anyway?;John C. Lennox;96;2020;Inglaterra;Inglês;Inglês
+67;Fuga do campo 14;Blaine Harden;169;2020;EUA;Inglês;Português
+68;The Screwtape Letters;C.S. Lewis;82;2020;Inglaterra;Inglês;Inglês
+69;O Príncipe;Nicolau Maquiavel;164;2020;Itália;Italiano;Português
+70;Maquiavel ou A Confusão Demoníaca;Olavo de Carvalho;93;2020;Brasil;Português;Português
+71;A Metamorfose;Franz Kafka;96;2020;República Tcheca;Alemão;Português
+72;Computer Science Distilled;Wladston Ferreira Filho;168;2020;Brasil;Inglês;Inglês
+73;A Morte de Ivan Ilitch;Lev Tolstói;94;2020;Russia;Russo;Português
+74;Controle Cerebral e Emocional;Narciso Irala;270;2020;Portugal;Português-Portugal;Português
+75;Sonetos de Camões;Izeti Fragata e Carlos Cortez;219;2020;Brasil;Português-Portugal;Português
+76;Wired for Intimacy;William M. Struthers;191;2020;EUA;Inglês;Inglês
+77;Alice’s Adventures in Wonderland;Lewis Carroll;192;2021;Inglaterra;Inglês;Inglês
+78;A Arte da Guerra;Sun Tzu;125;2021;China;Chinês Clássico;Português
+79;A Imaginação Educada;Northrop Frye;134;2021;Canadá;Inglês;Português
+80;1984;George Orwell;367;2021;Índia;Inglês;Português
+81;Meditações;Marco Aurélio;158;2021;Itália;Grego;Português
+
+
+
+
+
+
